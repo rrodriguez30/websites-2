@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Rachelle Rodriguez**, I attend *New College of Florida* and I play Volleyball
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
